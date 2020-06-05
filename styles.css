@@ -8,11 +8,13 @@ header {
 
 h1 {
     color: blue;
+    font-size: 40px;
 }
 
 h2 {
     color: brown;
-    margin-left:10px;
+    margin-left:30px;
+    font-size: 30px;
 }
 
 
@@ -25,7 +27,13 @@ p {
     margin-bottom:30px;
     margin-right:30px;
     margin-left:30px;
+    font-size: 20px;
 }
+
+img {
+    margin-left:200px;
+}
+
 
  
 
