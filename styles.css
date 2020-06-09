@@ -3,18 +3,19 @@ header {
     padding-top: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
-    padding-left: 150px;
+    padding-left: 300px;
 }
 
 h1 {
     color: blue;
     font-size: 40px;
+    margin-left:-180px;
 }
 
 h2 {
     color: brown;
-    margin-left:30px;
-    font-size: 30px;
+    margin-left:80px;
+    font-size:30px;
 }
 
 
@@ -26,13 +27,50 @@ p {
     margin-top:30px;
     margin-bottom:30px;
     margin-right:30px;
-    margin-left:30px;
+    margin-left:80px;
     font-size: 20px;
 }
 
 img {
     margin-left:200px;
 }
+
+
+.class1 { 
+    color: royalblue; 
+}
+
+.class2 { 
+    color: royalblue; 
+    font-size: 25px;
+}
+
+
+
+.class3 { 
+    color: darkgreen; 
+}
+
+.class4 { 
+    color: darkgreen; 
+    font-size: 25px;
+}
+
+#id1 { 
+    color: darkblue; 
+}
+
+#id2 { 
+    color: darkblue; 
+    font-size: 25px;
+}
+
+#id3 { 
+    color: brown;
+    font-size: 25px;
+}
+
+
 
 
  
